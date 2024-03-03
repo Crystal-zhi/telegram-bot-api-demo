@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "socks-proxy-agent": "^7.0.0"
+  }
+}
