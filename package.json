@@ -1,6 +1,6 @@
 {
   "name": "telegram-bot-api-demo",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.58.0",
     "socks-proxy-agent": "^7.0.0"
-  }
+  },
+"repository": {
+  "type": "git",
+  "url": "git://github.com/Crystal-zhi/telegram-bot-api-demo.git"
+}
 }
